@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aalkendyy
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in AI/ machine learning and app development
 - 🌱 I’m currently learning python
 
 
